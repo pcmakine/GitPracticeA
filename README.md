@@ -1,2 +1,4 @@
-GitPracticeA
+GitPractice
 ============
+
+blah blah blah
